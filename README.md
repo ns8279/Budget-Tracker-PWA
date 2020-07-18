@@ -18,7 +18,7 @@ It also uses Express.js, Mongoose and MongoDB
 
 ## Deployed Application 
 
-[Budget Tracker](https://github.com/ns8279/Budget-Tracker-PWA)<br />
+[Budget Tracker](https://vast-earth-85187.herokuapp.com/)<br />
 
 
 ## User Story 
